@@ -1,5 +1,12 @@
 # i18nOrbit
 
+
+## Test
+
+```bash
+./gradlew test
+```
+
 ## APIs
 
 - /api/auth/login
